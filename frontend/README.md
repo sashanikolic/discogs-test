@@ -5,5 +5,6 @@ To run it locally:
 
 ```
 cd frontend
+npm install
 npm run dev
 ```
